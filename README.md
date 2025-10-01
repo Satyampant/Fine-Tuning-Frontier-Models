@@ -1,4 +1,4 @@
-# Product Pricer: ML-Based Price Estimation from Product Descriptions
+# Product Pricer: LLM-Based Price Estimation from Product Descriptions
 
 A machine learning/Fine Tuning project that estimates product prices from their descriptions using various approaches, from traditional ML models to fine-tuned large language models.
 
